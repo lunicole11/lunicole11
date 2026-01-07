@@ -2,6 +2,9 @@
 
 currently:
 - Math/CS @ UChicago
+- 
+[![Nicole's GitHub stats](https://github-readme-stats.vercel.app/api?username=lunicole11)](https://github.com/lunicole11/github-readme-stats)
+
 
 <!--
 **lunicole11/lunicole11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
