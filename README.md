@@ -2,8 +2,9 @@
 
 currently:
 - Math/CS @ UChicago
-- 
-[![Nicole's GitHub stats](https://github-readme-stats.vercel.app/api?username=lunicole11)](https://github.com/lunicole11/github-readme-stats)
+
+
+[![Nicole's GitHub stats](https://github-readme-stats.vercel.app/api?username=lunicole11)](https://github.com/anuraghazra//github-readme-stats)
 
 
 <!--
