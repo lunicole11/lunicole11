@@ -3,8 +3,11 @@
 currently:
 - Math/CS @ UChicago
 
-Itch.io: https://lunicole.itch.io/
-LinkedIn: https://www.linkedin.com/in/nicole-lu-195302330/
+[![Top Langs](github-readme-stats.vercel.app)](
+markdown
+https://github.com/anuraghazra/github-readme-stats
+markdown
+)
 
 <!--
 **lunicole11/lunicole11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
